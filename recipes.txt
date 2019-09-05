@@ -1,9 +1,10 @@
 welcome to my kitchen
 pasta
 pizza
-chicken
-beans
-icecream
 
 
-thank you
+
+
+eight
+nine
+ten
